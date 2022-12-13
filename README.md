@@ -1,5 +1,13 @@
 # C - Stacks, Queues - LIFO, FIFO
 
+## Compilation & Output
+* Your code will be compiled this way:
+```
+$ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
+```
+* Any output must be printed on stdout
+* Any error message must be printed on stderr
+
 ## The Monty language
 
 **Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python).
