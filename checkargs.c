@@ -2,7 +2,7 @@
 
 /**
  * check_args_num - check the arguments passed on to the interpreter
- * @argn: number of args
+ * @ac: number of args
  *
  * Return: Nothing
  */
